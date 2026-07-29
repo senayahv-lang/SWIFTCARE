@@ -9,7 +9,7 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "declaration": false,
-    "noEmitOnError": false
+    "noEmitOnError": false;
   },
   "include": ["src/**/*"]
 }
